@@ -184,7 +184,7 @@ const Table = () => {
   </tbody>
 </table>
 
-        <div className="container mt-2">
+        <div className="container text-center mt-2">
         <Button handleClick={deleteHandler}>Delete</Button>            
         <Button reset handleClick={resetHandler}>Reset</Button>            
         
