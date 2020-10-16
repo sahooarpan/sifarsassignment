@@ -1,10 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### `Image of Application here we can filter rows select rows and delete,reset our selections and Edit Price`
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br />
 ![Image of the App](./img.JPG?raw=true "Assignment")
